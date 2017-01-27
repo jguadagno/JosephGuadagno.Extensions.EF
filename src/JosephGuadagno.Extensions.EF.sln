@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JosephGuadagno.Extensions.EF", "Extensions.EF\JosephGuadagno.Extensions.EF.csproj", "{65123691-F8DB-41FE-82D1-1C4F3727E9D2}"
+EndProject
+Project("{E09DD79A-4488-4AB9-8D3F-A7EEE78BF432}") = "JosephGuadagno.Extensions.EF.NuGet", "Extensions.EF.NuGet\JosephGuadagno.Extensions.EF.NuGet.nuproj", "{2839AD7B-3A6B-45D5-BE06-E2B5B1023BEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{0FF79F05-C4BE-43F5-A75F-9516B1DF8811}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65123691-F8DB-41FE-82D1-1C4F3727E9D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65123691-F8DB-41FE-82D1-1C4F3727E9D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65123691-F8DB-41FE-82D1-1C4F3727E9D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65123691-F8DB-41FE-82D1-1C4F3727E9D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2839AD7B-3A6B-45D5-BE06-E2B5B1023BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2839AD7B-3A6B-45D5-BE06-E2B5B1023BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2839AD7B-3A6B-45D5-BE06-E2B5B1023BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2839AD7B-3A6B-45D5-BE06-E2B5B1023BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
